@@ -35,6 +35,7 @@ You can also add links to this readme and take advantage of [markdown syntax](ht
 
 ## Source code (sourceable scripts (can still be refined))
 
+- [Fisher information analysis in R](https://github.com/PerryLab/fisheR)
 - [monty-hall](https://github.com/PerryLab/monty_hall)
 
 ## Janky code (unstable code we can help with)
